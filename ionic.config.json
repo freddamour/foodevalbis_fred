@@ -1,0 +1,8 @@
+{
+  "name": "foodevalbis_fred",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
